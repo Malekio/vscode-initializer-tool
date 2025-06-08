@@ -23,7 +23,7 @@ A Python script to automate the creation of project folders and opening them in 
 
 ## Configuration 
 - To change the default project directory: 
-1. Edit the the line 33 in the script, you can replace "vscode_projects" with and existing one in you machine.
+    1. Edit the the line 33 in the script, you can replace "vscode_projects" with and existing one in you machine.
 
 ## License
 
